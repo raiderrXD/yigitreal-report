@@ -7,7 +7,7 @@ pkg install git
 git clone https://github.com/raiderrXD/yigitreal-report
 
 
-cd Dr-report-V2
+cd yigitreal-report
 
 chmod +x * 
 
